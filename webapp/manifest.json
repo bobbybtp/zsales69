@@ -8,7 +8,7 @@
       "version": "0.0.1"
     },
     "title": "{{Title}}",
-    "description": "{{appDescription}}",
+    "description": "{{app}}",
     "resources": "resources.json",
     "sourceTemplate": {
       "id": "@sap/generator-fiori:lrop",
